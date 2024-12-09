@@ -60,4 +60,5 @@ firebase_options.dart
 .firebaserc
 analysis_options.yaml
 firebase.json
+cors.json
 
