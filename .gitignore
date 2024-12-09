@@ -61,4 +61,5 @@ firebase_options.dart
 analysis_options.yaml
 firebase.json
 cors.json
+.metadata
 
